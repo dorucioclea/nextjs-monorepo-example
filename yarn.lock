@@ -15172,10 +15172,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"isbot@npm:3.8.0":
-  version: 3.8.0
-  resolution: "isbot@npm:3.8.0"
-  checksum: 10c0/3e9daa907212db8e8e339fe0c7eacff7814de0db0aeef9ab379376b245f35058c6bdd2de0849442a791bc3d9587d749071e7d7e90aea00bf9f834f40c69ea16f
+"isbot@npm:5.1.0":
+  version: 5.1.0
+  resolution: "isbot@npm:5.1.0"
+  checksum: 10c0/24f871f85dc0eb3fc490ac45cf040f6c8b6074322166a5c111bf7e028fcacb73908cadb8a783f810d543f76a3829b6d54821d92b0211189d5efd6a1ba859e675
   languageName: node
   linkType: hard
 
@@ -21047,7 +21047,7 @@ __metadata:
     autoprefixer: "npm:10.4.17"
     cssnano: "npm:6.0.4"
     eslint: "npm:8.57.0"
-    isbot: "npm:3.8.0"
+    isbot: "npm:5.1.0"
     postcss: "npm:8.4.35"
     prettier: "npm:3.2.5"
     react: "npm:18.2.0"
